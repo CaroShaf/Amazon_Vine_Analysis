@@ -12,7 +12,8 @@ another Colab PySpark notebook to process into dataframes and to produce the fol
 ## Results
 The following statistics were generated to compare the two groups of review writers.
 
-### Number of Vine reviews and non-Vine reviews (see images for Percentages, below, which contain these figures)
+### Number of Vine reviews and non-Vine reviews 
+(see images for Percentages, below, which contain these figures)
   * Non-vine reviews: 14477 
   * Vine reviews: 60
 
@@ -22,7 +23,7 @@ The following statistics were generated to compare the two groups of review writ
   
 ### Percentage of Vine and non-Vine 5-star reviews were 5 stars
   * Non-vine percentage of 5-star reviews: 56.72 [https://github.com/CaroShaf/Amazon_Vine_Analysis/blob/main/images/nonvinetot%26percent.png]
-  * Vine percentage of 5-star reviews:56.66 [https://github.com/CaroShaf/Amazon_Vine_Analysis/blob/main/images/vinetot%26percent.png]
+  * Vine percentage of 5-star reviews: 56.66 [https://github.com/CaroShaf/Amazon_Vine_Analysis/blob/main/images/vinetot%26percent.png]
   
 ## Summary
 Based on the information presented above, it would appear that there is no bias towards positive reviews by Vine Program (paid) participants.  In fact, there is almost no
