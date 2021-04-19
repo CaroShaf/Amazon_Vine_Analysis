@@ -33,7 +33,10 @@ Furthermore, looking at reviews of other products would be useful to see if tren
 
 #### References to PostgreSQL tables
   1 customers_table [https://github.com/CaroShaf/Amazon_Vine_Analysis/blob/main/images/customers_table.png]
+  
   2 products_table [https://github.com/CaroShaf/Amazon_Vine_Analysis/blob/main/images/products_table.png]
+  
   3 review_id_table [https://github.com/CaroShaf/Amazon_Vine_Analysis/blob/main/images/review_id_table.png]
+  
   4 vine_table [https://github.com/CaroShaf/Amazon_Vine_Analysis/blob/main/images/review_id_table.png]
 
