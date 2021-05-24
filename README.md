@@ -5,8 +5,11 @@ This analysis was conducted using data collected by Amazon and available from th
 product categories, with data on reviews by Vine Program participants and non-Vine participants.  Vine Program participants are paid for their reviews, whereas non-Vine
 participants are not paid.  The purpose of this study was to determine if being paid to write reviews has an effect on the sentiment of the reviews.  
 
-This study only looked at one Amazon S3 dataset on musical instruments.  The Amazon s3 dataset was extracted into an AWS database and then passed through a Google Colab
-PySpark(v.3.1.1) notebook, where it was loaded into a PostgreSQL (v4.4) database.  Some transformation of data was done by producing tables in PostgreSQL and then read into
+## Resources
+Amazon S3 open datasets, Google Colab notebooks, AWS RDS, PySpark, PostgreSQL
+
+This study only looked at one Amazon S3 dataset on musical instruments.  The Amazon S3 dataset was extracted into an AWS database and then passed through a Google Colab
+PySpark(v.3.1.1) dataframes, where it was loaded into a PostgreSQL (v4.4) database.  Some transformation of data was done by producing tables in PostgreSQL and then read into
 another Colab PySpark notebook to process into dataframes and to produce the following results.(Images of the PostgreSQL tables are included at the end of this document.)
 
 ## Results
